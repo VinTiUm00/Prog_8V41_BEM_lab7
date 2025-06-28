@@ -1,0 +1,1 @@
+int numbers_from_range(int);

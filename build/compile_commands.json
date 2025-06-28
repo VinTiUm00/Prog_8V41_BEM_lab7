@@ -1,0 +1,290 @@
+[
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o CMakeFiles\\lab7.dir\\main.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\main.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\main.cpp",
+  "output": "CMakeFiles\\lab7.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/egor6/ProjectC/Programming/Lab7/assert/../headers -IC:/Users/egor6/ProjectC/Programming/Lab7 -g -std=gnu++17 -o assert\\CMakeFiles\\AssertTests.dir\\main.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\assert\\main.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\assert\\main.cpp",
+  "output": "assert\\CMakeFiles\\AssertTests.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/egor6/ProjectC/Programming/Lab7/assert/../headers -IC:/Users/egor6/ProjectC/Programming/Lab7 -g -std=gnu++17 -o assert\\CMakeFiles\\AssertTests.dir\\__\\tasks\\task_1.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_1.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_1.cpp",
+  "output": "assert\\CMakeFiles\\AssertTests.dir\\__\\tasks\\task_1.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/egor6/ProjectC/Programming/Lab7/assert/../headers -IC:/Users/egor6/ProjectC/Programming/Lab7 -g -std=gnu++17 -o assert\\CMakeFiles\\AssertTests.dir\\__\\tasks\\task_2.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_2.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_2.cpp",
+  "output": "assert\\CMakeFiles\\AssertTests.dir\\__\\tasks\\task_2.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/egor6/ProjectC/Programming/Lab7/assert/../headers -IC:/Users/egor6/ProjectC/Programming/Lab7 -g -std=gnu++17 -o assert\\CMakeFiles\\AssertTests.dir\\__\\tasks\\task_3.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_3.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_3.cpp",
+  "output": "assert\\CMakeFiles\\AssertTests.dir\\__\\tasks\\task_3.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/egor6/ProjectC/Programming/Lab7/assert/../headers -IC:/Users/egor6/ProjectC/Programming/Lab7 -g -std=gnu++17 -o assert\\CMakeFiles\\AssertTests.dir\\__\\tasks\\task_4.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_4.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_4.cpp",
+  "output": "assert\\CMakeFiles\\AssertTests.dir\\__\\tasks\\task_4.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/egor6/ProjectC/Programming/Lab7/assert/../headers -IC:/Users/egor6/ProjectC/Programming/Lab7 -g -std=gnu++17 -o assert\\CMakeFiles\\AssertTests.dir\\__\\tasks\\task_5.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_5.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_5.cpp",
+  "output": "assert\\CMakeFiles\\AssertTests.dir\\__\\tasks\\task_5.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/egor6/ProjectC/Programming/Lab7/assert/../headers -IC:/Users/egor6/ProjectC/Programming/Lab7 -g -std=gnu++17 -o assert\\CMakeFiles\\AssertTests.dir\\__\\tasks\\task_6.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_6.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_6.cpp",
+  "output": "assert\\CMakeFiles\\AssertTests.dir\\__\\tasks\\task_6.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/egor6/ProjectC/Programming/Lab7/assert/../headers -IC:/Users/egor6/ProjectC/Programming/Lab7 -g -std=gnu++17 -o assert\\CMakeFiles\\AssertTests.dir\\__\\tasks\\task_7.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_7.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_7.cpp",
+  "output": "assert\\CMakeFiles\\AssertTests.dir\\__\\tasks\\task_7.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/egor6/ProjectC/Programming/Lab7/assert/../headers -IC:/Users/egor6/ProjectC/Programming/Lab7 -g -std=gnu++17 -o assert\\CMakeFiles\\AssertTests.dir\\__\\tasks\\task_8.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_8.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_8.cpp",
+  "output": "assert\\CMakeFiles\\AssertTests.dir\\__\\tasks\\task_8.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_1.dir\\tests\\test_1.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\ctest\\tests\\test_1.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\ctest\\tests\\test_1.cpp",
+  "output": "ctest\\CMakeFiles\\test_1.dir\\tests\\test_1.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_1.dir\\__\\tasks\\task_1.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_1.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_1.cpp",
+  "output": "ctest\\CMakeFiles\\test_1.dir\\__\\tasks\\task_1.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_1.dir\\__\\tasks\\task_2.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_2.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_2.cpp",
+  "output": "ctest\\CMakeFiles\\test_1.dir\\__\\tasks\\task_2.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_1.dir\\__\\tasks\\task_3.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_3.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_3.cpp",
+  "output": "ctest\\CMakeFiles\\test_1.dir\\__\\tasks\\task_3.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_1.dir\\__\\tasks\\task_4.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_4.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_4.cpp",
+  "output": "ctest\\CMakeFiles\\test_1.dir\\__\\tasks\\task_4.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_1.dir\\__\\tasks\\task_5.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_5.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_5.cpp",
+  "output": "ctest\\CMakeFiles\\test_1.dir\\__\\tasks\\task_5.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_1.dir\\__\\tasks\\task_6.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_6.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_6.cpp",
+  "output": "ctest\\CMakeFiles\\test_1.dir\\__\\tasks\\task_6.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_1.dir\\__\\tasks\\task_7.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_7.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_7.cpp",
+  "output": "ctest\\CMakeFiles\\test_1.dir\\__\\tasks\\task_7.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_1.dir\\__\\tasks\\task_8.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_8.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_8.cpp",
+  "output": "ctest\\CMakeFiles\\test_1.dir\\__\\tasks\\task_8.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_2.dir\\tests\\test_2.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\ctest\\tests\\test_2.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\ctest\\tests\\test_2.cpp",
+  "output": "ctest\\CMakeFiles\\test_2.dir\\tests\\test_2.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_2.dir\\__\\tasks\\task_1.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_1.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_1.cpp",
+  "output": "ctest\\CMakeFiles\\test_2.dir\\__\\tasks\\task_1.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_2.dir\\__\\tasks\\task_2.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_2.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_2.cpp",
+  "output": "ctest\\CMakeFiles\\test_2.dir\\__\\tasks\\task_2.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_2.dir\\__\\tasks\\task_3.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_3.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_3.cpp",
+  "output": "ctest\\CMakeFiles\\test_2.dir\\__\\tasks\\task_3.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_2.dir\\__\\tasks\\task_4.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_4.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_4.cpp",
+  "output": "ctest\\CMakeFiles\\test_2.dir\\__\\tasks\\task_4.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_2.dir\\__\\tasks\\task_5.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_5.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_5.cpp",
+  "output": "ctest\\CMakeFiles\\test_2.dir\\__\\tasks\\task_5.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_2.dir\\__\\tasks\\task_6.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_6.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_6.cpp",
+  "output": "ctest\\CMakeFiles\\test_2.dir\\__\\tasks\\task_6.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_2.dir\\__\\tasks\\task_7.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_7.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_7.cpp",
+  "output": "ctest\\CMakeFiles\\test_2.dir\\__\\tasks\\task_7.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_2.dir\\__\\tasks\\task_8.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_8.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_8.cpp",
+  "output": "ctest\\CMakeFiles\\test_2.dir\\__\\tasks\\task_8.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_3.dir\\tests\\test_3.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\ctest\\tests\\test_3.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\ctest\\tests\\test_3.cpp",
+  "output": "ctest\\CMakeFiles\\test_3.dir\\tests\\test_3.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_3.dir\\__\\tasks\\task_1.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_1.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_1.cpp",
+  "output": "ctest\\CMakeFiles\\test_3.dir\\__\\tasks\\task_1.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_3.dir\\__\\tasks\\task_2.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_2.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_2.cpp",
+  "output": "ctest\\CMakeFiles\\test_3.dir\\__\\tasks\\task_2.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_3.dir\\__\\tasks\\task_3.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_3.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_3.cpp",
+  "output": "ctest\\CMakeFiles\\test_3.dir\\__\\tasks\\task_3.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_3.dir\\__\\tasks\\task_4.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_4.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_4.cpp",
+  "output": "ctest\\CMakeFiles\\test_3.dir\\__\\tasks\\task_4.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_3.dir\\__\\tasks\\task_5.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_5.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_5.cpp",
+  "output": "ctest\\CMakeFiles\\test_3.dir\\__\\tasks\\task_5.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_3.dir\\__\\tasks\\task_6.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_6.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_6.cpp",
+  "output": "ctest\\CMakeFiles\\test_3.dir\\__\\tasks\\task_6.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_3.dir\\__\\tasks\\task_7.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_7.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_7.cpp",
+  "output": "ctest\\CMakeFiles\\test_3.dir\\__\\tasks\\task_7.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o ctest\\CMakeFiles\\test_3.dir\\__\\tasks\\task_8.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_8.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_8.cpp",
+  "output": "ctest\\CMakeFiles\\test_3.dir\\__\\tasks\\task_8.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/egor6/ProjectC/Programming/Lab7 -isystem C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googletest/include -isystem C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googletest -g -std=gnu++17 -o gtest\\CMakeFiles\\tests.dir\\tests.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\gtest\\tests.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\gtest\\tests.cpp",
+  "output": "gtest\\CMakeFiles\\tests.dir\\tests.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/egor6/ProjectC/Programming/Lab7 -isystem C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googletest/include -isystem C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googletest -g -std=gnu++17 -o gtest\\CMakeFiles\\tests.dir\\__\\tasks\\task_3.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_3.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_3.cpp",
+  "output": "gtest\\CMakeFiles\\tests.dir\\__\\tasks\\task_3.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/egor6/ProjectC/Programming/Lab7 -isystem C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googletest/include -isystem C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googletest -g -std=gnu++17 -o gtest\\CMakeFiles\\tests.dir\\__\\tasks\\task_4.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_4.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_4.cpp",
+  "output": "gtest\\CMakeFiles\\tests.dir\\__\\tasks\\task_4.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/egor6/ProjectC/Programming/Lab7 -isystem C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googletest/include -isystem C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googletest -g -std=gnu++17 -o gtest\\CMakeFiles\\tests.dir\\__\\tasks\\task_5.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_5.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_5.cpp",
+  "output": "gtest\\CMakeFiles\\tests.dir\\__\\tasks\\task_5.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/egor6/ProjectC/Programming/Lab7 -isystem C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googletest/include -isystem C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googletest -g -std=gnu++17 -o gtest\\CMakeFiles\\tests.dir\\__\\tasks\\task_6.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_6.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_6.cpp",
+  "output": "gtest\\CMakeFiles\\tests.dir\\__\\tasks\\task_6.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/egor6/ProjectC/Programming/Lab7 -isystem C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googletest/include -isystem C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googletest -g -std=gnu++17 -o gtest\\CMakeFiles\\tests.dir\\__\\tasks\\task_7.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_7.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_7.cpp",
+  "output": "gtest\\CMakeFiles\\tests.dir\\__\\tasks\\task_7.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/egor6/ProjectC/Programming/Lab7 -isystem C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googletest/include -isystem C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googletest -g -std=gnu++17 -o gtest\\CMakeFiles\\tests.dir\\__\\tasks\\task_8.cpp.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_8.cpp",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\tasks\\task_8.cpp",
+  "output": "gtest\\CMakeFiles\\tests.dir\\__\\tasks\\task_8.cpp.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googlemock/include -IC:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googlemock -isystem C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googletest/include -isystem C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googletest -g -std=c++17 -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps\\googletest-build\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "output": "_deps\\googletest-build\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -isystem C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googlemock/include -isystem C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googlemock -isystem C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googletest/include -isystem C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googletest -g -std=c++17 -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps\\googletest-build\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "output": "_deps\\googletest-build\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googletest/include -IC:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googletest -g -std=c++17 -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps\\googletest-build\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "output": "_deps\\googletest-build\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj"
+},
+{
+  "directory": "C:/Users/egor6/ProjectC/Programming/Lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -isystem C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googletest/include -isystem C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-src/googletest -g -std=c++17 -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps\\googletest-build\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "file": "C:\\Users\\egor6\\ProjectC\\Programming\\Lab7\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "output": "_deps\\googletest-build\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj"
+}
+]

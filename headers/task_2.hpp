@@ -1,0 +1,1 @@
+bool path_exist(int, int, int, int, int);

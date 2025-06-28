@@ -1,0 +1,13 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/egor6/ProjectC/Programming/Lab7/build/cmake_install.cmake",
+		"C:/Users/egor6/ProjectC/Programming/Lab7/build/assert/cmake_install.cmake",
+		"C:/Users/egor6/ProjectC/Programming/Lab7/build/ctest/cmake_install.cmake",
+		"C:/Users/egor6/ProjectC/Programming/Lab7/build/gtest/cmake_install.cmake",
+		"C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-build/cmake_install.cmake",
+		"C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-build/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

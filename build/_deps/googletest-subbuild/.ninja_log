@@ -1,0 +1,21 @@
+# ninja log v6
+3351	3403	7727765651015532	C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	2ef60dd12f680203
+1	61	7727762492426748	C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	183a885be39fb62c
+3454	3528	7727765652265528	CMakeFiles/googletest-populate-complete	b2ef4e5c1fab330e
+3251	3302	7727765649995716	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	dbbfa9daad931e2e
+1	61	7727762492426748	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	183a885be39fb62c
+7	3142	7727765648395533	C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	ab3b91af6440a030
+3196	3251	7727765649485543	C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	902471285b0c740a
+3403	3454	7727765651515541	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	6f7dd3db40800993
+3142	3196	7727765648935519	C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	8fa7c511adbb94e3
+3302	3351	7727765650495526	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	8a75a86dd0754454
+7	3142	7727765648395533	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	ab3b91af6440a030
+3302	3351	7727765650495526	C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	8a75a86dd0754454
+3454	3528	7727765652265528	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	b2ef4e5c1fab330e
+3351	3403	7727765651015532	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	2ef60dd12f680203
+3142	3196	7727765648935519	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	8fa7c511adbb94e3
+3454	3528	7727765652265528	C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	b2ef4e5c1fab330e
+3454	3528	7727765652265528	C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	b2ef4e5c1fab330e
+3196	3251	7727765649485543	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	902471285b0c740a
+3403	3454	7727765651515541	C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	6f7dd3db40800993
+3251	3302	7727765649995716	C:/Users/egor6/ProjectC/Programming/Lab7/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	dbbfa9daad931e2e
